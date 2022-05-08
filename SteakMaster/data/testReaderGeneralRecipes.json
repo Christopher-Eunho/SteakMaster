@@ -1,0 +1,76 @@
+{"recipes": [
+  {
+    "picturePath": "./data/pic/1.jpg",
+    "steak": {
+      "cut": "Tenderloin",
+      "thickness": 3,
+      "grams": 250
+    },
+    "name": "Juicy Tenderloin",
+    "doneness": "Medium Rare",
+    "steps": [
+      {
+        "name": "Heat & Oil",
+        "action": "Heat the pan and oil it",
+        "time": 5
+      },
+      {
+        "name": "Steak on",
+        "action": "Put the steak on and sear it",
+        "time": 10
+      },
+      {
+        "name": "Sear other side",
+        "action": "Flip the steak and sear other side",
+        "time": 10
+      },
+      {
+        "name": "Butter it",
+        "action": "Lower the heat and Give a butter shower to add flavor",
+        "time": 6
+      },
+      {
+        "name": "Add rosemary",
+        "action": "Add the herb and keep the butter shower",
+        "time": 4
+      },
+      {
+        "name": "Resting",
+        "action": "Put the steak on a cooling rack and leave it",
+        "time": 14
+      }
+    ]
+  },
+  {
+    "picturePath": "./data/pic/2.jpg",
+    "steak": {
+      "cut": "Ribeye",
+      "thickness": 2,
+      "grams": 600
+    },
+    "name": "Tasty Ribeye",
+    "doneness": "Medium Well-done",
+    "steps": [
+      {
+        "name": "Heat & Oil",
+        "action": "Heat the pan and oil it",
+        "time": 5
+      },
+      {
+        "name": "Steak on",
+        "action": "Put the steak on and sear it",
+        "time": 10
+      },
+      {
+        "name": "Sear other side",
+        "action": "Flip the steak and sear other side",
+        "time": 10
+      },
+      {
+        "name": "Butter it",
+        "action": "Lower the heat and Give a butter shower to add flavor",
+        "time": 6
+      }
+    ]
+  }
+]}
