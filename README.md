@@ -11,5 +11,11 @@
 - Save Log: User logs are automatically printed in console after ending the program. They are tracked using Observer Pattern
 
 ## Development
--	Applied Object Oriented Programming design patterned such as observer and composite 
--	Enhanced user experience through visualization using Swing GUI and tested using JUnit
+-	Applied OOP; recipes and steps are programmed in Composite Pattern and user log is tracked using Observer Pattern
+-	Recipes can be and saved in JSON format and can be loaded to the program by parsing the JSON file
+- Functions and features are tested using JUnit
+
+## Installation and Using
+1. Download the entire SteakMaster Folder
+2. Excute the "SteakMaster/src/main/ui/main"
+3. Two sample recipes are added by defaults, you can create and save your own recipes!
